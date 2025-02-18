@@ -15,3 +15,5 @@ SEO meta tags in the head section.
 OG tags for better social media sharing.
 A favicon linked in the head section.
 By completing this project, you’ll gain a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare your webpage for future styling. This foundation will enable you to move on to styling the CV using CSS in subsequent projects.
+
+https://roadmap.sh/projects/single-page-cv
