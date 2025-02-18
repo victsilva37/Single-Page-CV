@@ -1,3 +1,5 @@
+## Single-Page CV
+
 Key requirements for this project:
 
 Semantic HTML: Use appropriate HTML tags to structure your CV.
